@@ -1,0 +1,6 @@
+[submodule "src/turtlebot3_msgs"]
+	path = src/turtlebot3_msgs
+	url = git://github.com/ROBOTIS-GIT/turtlebot3_msgs
+[submodule "src/turtlebot3"]
+	path = src/turtlebot3
+	url = git://github.com/ROBOTIS-GIT/turtlebot3
