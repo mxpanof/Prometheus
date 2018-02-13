@@ -7,3 +7,6 @@
 [submodule "src/m-explore"]
 	path = src/m-explore
 	url = git://github.com/hrnr/m-explore
+[submodule "src/--force"]
+	path = src/--force
+	url = git://github.com/hrnr/m-explore
