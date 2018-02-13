@@ -1,0 +1,2 @@
+set(turtlebot3_msgs_MESSAGE_FILES "/home/max/catkin_ws/src/turtlebot3_msgs/msg/SensorState.msg;/home/max/catkin_ws/src/turtlebot3_msgs/msg/VersionInfo.msg;/home/max/catkin_ws/src/turtlebot3_msgs/msg/PanoramaImg.msg;/home/max/catkin_ws/src/turtlebot3_msgs/msg/Sound.msg")
+set(turtlebot3_msgs_SERVICE_FILES "/home/max/catkin_ws/src/turtlebot3_msgs/srv/TakePanorama.srv;/home/max/catkin_ws/src/turtlebot3_msgs/srv/SetFollowState.srv")
