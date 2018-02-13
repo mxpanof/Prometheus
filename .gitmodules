@@ -4,3 +4,6 @@
 [submodule "src/turtlebot3"]
 	path = src/turtlebot3
 	url = git://github.com/ROBOTIS-GIT/turtlebot3
+[submodule "src/m-explore"]
+	path = src/m-explore
+	url = git://github.com/hrnr/m-explore
